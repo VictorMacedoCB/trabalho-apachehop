@@ -67,7 +67,7 @@ Banco utilizado: `hopdb`
 ---
 
 ### Como executar o projeto
-- 1. Subir o ambiente com Docker
+-- 1. Subir o ambiente com Docker
 `docker-compose up -d`
 
 
@@ -85,8 +85,8 @@ Resultado final
 
 O pipeline gera uma tabela consolidada de vendas contendo:
 
-Data da venda
-Nome do produto
-Nome do vendedor
-Quantidade vendida
-Valor total calculado
+- Data da venda
+- Nome do produto
+- Nome do vendedor
+- Quantidade vendida
+- Valor total calculado
