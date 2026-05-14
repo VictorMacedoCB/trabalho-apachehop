@@ -67,15 +67,14 @@ Banco utilizado: `hopdb`
 ---
 
 ### Como executar o projeto
--- 1. Subir o ambiente com Docker
+ 1. Subir o ambiente com Docker
 `docker-compose up -d`
 
-
--- 2. Acessar os serviços
+ 2. Acessar os serviços
 Apache Hop Web: http://localhost:8080/ui
 pgAdmin: http://localhost:5050
 
--- 3. Executar o pipeline
+ 3. Executar o pipeline
 Abra o Apache Hop Web e execute o pipeline:
 filename.hpl
 
