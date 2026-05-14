@@ -80,7 +80,7 @@ filename.hpl
 
 ---
 
-Resultado final
+### Resultado final
 
 O pipeline gera uma tabela consolidada de vendas contendo:
 
