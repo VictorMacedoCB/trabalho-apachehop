@@ -66,7 +66,7 @@ Banco utilizado: `hopdb`
 
 ---
 
-### Como executar o projeto
+### 🚀 Como executar o projeto
  1. Subir o ambiente com Docker
 `docker-compose up -d`
 
@@ -80,7 +80,7 @@ filename.hpl
 
 ---
 
-### Resultado final
+### ✅ Resultado final
 
 O pipeline gera uma tabela consolidada de vendas contendo:
 
